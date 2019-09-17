@@ -6,7 +6,7 @@ module.exports = {
   title: 'Blog by Atom',
   subtitle: 'Atom의 Tech Blog',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'atomwow',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-146505718-1',
   useKatex: false,

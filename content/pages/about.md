@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/photo.jpg"
 ---
 
-# About Me
+## About Me
 
 ## Junseok Oh
 

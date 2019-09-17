@@ -1,10 +1,10 @@
 ---
-layout: post
+template: post
 title: Go lang Getting Started
-subtitle: Go language install
-categories: program
 tags: [go,linux]
-author: atom
+date: "2019-08-22"
+draft: false
+category: "program"
 ---
 ## Linux, macOS, and FreeBSD tarballs
 

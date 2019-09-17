@@ -19,10 +19,6 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
   ],
   author: {
     name: 'Junseok Oh',
@@ -30,17 +26,8 @@ module.exports = {
     bio: 'Samsung Electronics',
     contacts: {
       email: 'ojs0106@gmail.com',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
       github: 'atomwoww',
-      rss: '',
-      vkontakte: '',
       linkedin: 'oh-junseok-a779b3120',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: ''
     }
   }
 };

@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://atomthink.netlify.com',
+  url: 'https://blog.atomthink.com',
   pathPrefix: '/',
   title: 'Blog by Atom',
   subtitle: 'Atom의 Tech Blog',
